@@ -1,0 +1,1 @@
+cmd_/root/drivers/ugreen/usb_wifi/aic8800_linux_drvier/drivers/aic8800/Module.symvers :=  sed 's/ko$$/o/'  /root/drivers/ugreen/usb_wifi/aic8800_linux_drvier/drivers/aic8800/modules.order | scripts/mod/modpost       -o /root/drivers/ugreen/usb_wifi/aic8800_linux_drvier/drivers/aic8800/Module.symvers -e -i Module.symvers -T - 

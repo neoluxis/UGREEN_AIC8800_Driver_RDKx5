@@ -1,0 +1,1 @@
+cmd_/root/drivers/ugreen/usb_wifi/aic8800_linux_drvier/drivers/aic8800/aic8800_fdrv/aic8800_fdrv.o := ld -EL  -maarch64elf -z noexecstack   -r -o /root/drivers/ugreen/usb_wifi/aic8800_linux_drvier/drivers/aic8800/aic8800_fdrv/aic8800_fdrv.o @/root/drivers/ugreen/usb_wifi/aic8800_linux_drvier/drivers/aic8800/aic8800_fdrv/aic8800_fdrv.mod 

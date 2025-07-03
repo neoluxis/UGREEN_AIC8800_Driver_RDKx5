@@ -1,0 +1,1 @@
+cmd_/root/drivers/ugreen/usb_wifi/aic8800_linux_drvier/drivers/aic8800/aic_load_fw/modules.order := {   echo /root/drivers/ugreen/usb_wifi/aic8800_linux_drvier/drivers/aic8800/aic_load_fw/aic_load_fw.ko; :; } > /root/drivers/ugreen/usb_wifi/aic8800_linux_drvier/drivers/aic8800/aic_load_fw/modules.order
