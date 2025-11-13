@@ -1,0 +1,10 @@
+/home/neolux/workspace/wrt/UGREEN_AIC8800_Driver_RDKx5/aic8800_linux_driver/drivers/aic8800/aic_load_fw/aic_bluetooth_main.o
+/home/neolux/workspace/wrt/UGREEN_AIC8800_Driver_RDKx5/aic8800_linux_driver/drivers/aic8800/aic_load_fw/aicbluetooth.o
+/home/neolux/workspace/wrt/UGREEN_AIC8800_Driver_RDKx5/aic8800_linux_driver/drivers/aic8800/aic_load_fw/aicwf_usb.o
+/home/neolux/workspace/wrt/UGREEN_AIC8800_Driver_RDKx5/aic8800_linux_driver/drivers/aic8800/aic_load_fw/aic_txrxif.o
+/home/neolux/workspace/wrt/UGREEN_AIC8800_Driver_RDKx5/aic8800_linux_driver/drivers/aic8800/aic_load_fw/aicbluetooth_cmds.o
+/home/neolux/workspace/wrt/UGREEN_AIC8800_Driver_RDKx5/aic8800_linux_driver/drivers/aic8800/aic_load_fw/aic_compat_8800d80.o
+/home/neolux/workspace/wrt/UGREEN_AIC8800_Driver_RDKx5/aic8800_linux_driver/drivers/aic8800/aic_load_fw/aic_compat_8800d80x2.o
+/home/neolux/workspace/wrt/UGREEN_AIC8800_Driver_RDKx5/aic8800_linux_driver/drivers/aic8800/aic_load_fw/md5.o
+/home/neolux/workspace/wrt/UGREEN_AIC8800_Driver_RDKx5/aic8800_linux_driver/drivers/aic8800/aic_load_fw/aicwf_rx_prealloc.o
+/home/neolux/workspace/wrt/UGREEN_AIC8800_Driver_RDKx5/aic8800_linux_driver/drivers/aic8800/aic_load_fw/aicwf_txq_prealloc.o
